@@ -1,12 +1,3 @@
-Step 1: Download the Project in your Computer .
-Step 2: open The Backend Folder in command prompt,
-        and type npm install.
-Step 3: in same Backend Folder type npm start in command prompt.
-Step 4: open The Frontend Folder in command prompt,
-        and type npm install.
-step 5: in same Frontend Folder type npm start in command prompt.
-
-Successfully started the React project ..!
 Description :
 This project for entering the student details for regarding konwing the students skill and for placement purpose.
 it contains for storing the student detail in mongodb
